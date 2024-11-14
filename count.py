@@ -1,5 +1,6 @@
 import math
 
+# Function checks if a number is prime
 def isPrime(number):
     if number < 2: # all numbers less than 2 are not prime
         return False
